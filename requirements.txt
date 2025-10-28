@@ -1,0 +1,8 @@
+# Dependencias para scan-ai
+# Herramienta de pentesting automatizada con IA
+
+# API de Claude para análisis inteligente
+anthropic>=0.40.0
+
+# Parser de XML a JSON para resultados de nmap
+xmltodict>=0.13.0

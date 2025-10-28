@@ -1,0 +1,20 @@
+# Archivos temporales
+*.log
+*.tmp
+*.swp
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno
+.env
+.env.example
+# Archivos de ejecución o media
+*.cast
+TRANSLATION.md
+
+# Carpetas a ignorar
+old/
+output/
+__pycache__/
