@@ -1,6 +1,6 @@
 # Scan-AI - Automated Pentesting Tool
 
-Automated network reconnaissance tool that uses AI (Claude) to plan, execute, and analyze network scans with Nmap/RustScan.
+Automated network reconnaissance tool that uses AI to plan, execute, and analyze network scans with Nmap/RustScan.
 
 ## Features
 
